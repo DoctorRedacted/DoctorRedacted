@@ -1,6 +1,6 @@
 - 🤖 Nicholas Silva, 16 anos.
 - 🔭 Atualmente trabalhando no meu TCC
-- 🙇‍♂️ Idiomas: Ingles, Português.
+- 🙇‍♂️ Idiomas: Inglês, Português.
 - 🌱 Atualmente aprendendo: ReactJS, MySQL, NodeJS e o idioma Russo.
 - 📫 Como me contatar: doctorredac@gmail.com
 
